@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+backend/.env
+backend/.venv/
+backend/**/__pycache__/
+backend/.pytest_cache/
+backend/reports/*.pdf
+backend/reports/*.html
+backend/data/*.db
+tools/report_render/
